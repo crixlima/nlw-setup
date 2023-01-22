@@ -35,6 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits  é um app para ajudar  rastrear os habitos.
 
+- [Visite o projeto online através do link:] (https://crixlima.github.io/nlw-setup/)
 
 ## 🔖 Layout
 
